@@ -1,5 +1,5 @@
-# Hitman tm 2  
-![game](game.jpg)
+# Hitman tm 3  
+![game](Hitman3.jpg)
 
 ## Wat te doen in de game? 
 

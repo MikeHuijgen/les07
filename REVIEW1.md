@@ -1,5 +1,5 @@
 # Predator: hunting grounds
-! [Predator](predator.jpg)
+![Predator](predator.jpg)
 
 ## Wat voor game is het?
 

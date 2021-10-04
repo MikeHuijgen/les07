@@ -1,5 +1,5 @@
 # Predator: hunting grounds
-! [Predator](predator.JFIF)
+! [Predator](predator.jfif)
 
 ## Wat voor game is het?
 

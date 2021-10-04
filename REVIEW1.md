@@ -1,5 +1,5 @@
 # Predator: hunting grounds
-! [game](game.jpg)
+! [game](game.jfif)
 
 ## Wat voor game is het?
 
